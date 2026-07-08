@@ -1,0 +1,426 @@
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:31 - ======================================================================
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - Prompt manager initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - All agents initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: discovery
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: collector
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: product
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: pricing
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: market
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Registered agent: strategy
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Analysis service initialized
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:19:36 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:25 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:25 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:25 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:25 - ======================================================================
+[INFO] 2026-07-08 15:27:27 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:27 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:27 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:27 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:27 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:27 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:27 - All agents initialized
+[INFO] 2026-07-08 15:27:27 - All agents initialized
+[INFO] 2026-07-08 15:27:27 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:27 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:27 - Registered agent: collector
+[INFO] 2026-07-08 15:27:27 - Registered agent: collector
+[INFO] 2026-07-08 15:27:27 - Registered agent: product
+[INFO] 2026-07-08 15:27:27 - Registered agent: product
+[INFO] 2026-07-08 15:27:27 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:27 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:27 - Registered agent: market
+[INFO] 2026-07-08 15:27:27 - Registered agent: market
+[INFO] 2026-07-08 15:27:27 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:27 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:27 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:27 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:27 - Analysis service initialized
+[INFO] 2026-07-08 15:27:27 - Analysis service initialized
+[INFO] 2026-07-08 15:27:27 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:27 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:27 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:27 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:27 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:27 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:27 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:27 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:27 - All agents initialized
+[INFO] 2026-07-08 15:27:27 - All agents initialized
+[INFO] 2026-07-08 15:27:27 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:27 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:27 - Registered agent: collector
+[INFO] 2026-07-08 15:27:27 - Registered agent: collector
+[INFO] 2026-07-08 15:27:27 - Registered agent: product
+[INFO] 2026-07-08 15:27:27 - Registered agent: product
+[INFO] 2026-07-08 15:27:27 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:27 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:27 - Registered agent: market
+[INFO] 2026-07-08 15:27:27 - Registered agent: market
+[INFO] 2026-07-08 15:27:27 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:27 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:27 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:27 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:27 - Analysis service initialized
+[INFO] 2026-07-08 15:27:27 - Analysis service initialized
+[INFO] 2026-07-08 15:27:27 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:27 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:40 - ======================================================================
+[INFO] 2026-07-08 15:27:40 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:40 - ======================================================================
+[INFO] 2026-07-08 15:27:40 - ======================================================================
+[INFO] 2026-07-08 15:27:40 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:27:40 - ======================================================================
+[INFO] 2026-07-08 15:27:43 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:43 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:43 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:43 - All agents initialized
+[INFO] 2026-07-08 15:27:43 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:43 - Registered agent: collector
+[INFO] 2026-07-08 15:27:43 - Registered agent: product
+[INFO] 2026-07-08 15:27:43 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:43 - Registered agent: market
+[INFO] 2026-07-08 15:27:43 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:43 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:43 - Analysis service initialized
+[INFO] 2026-07-08 15:27:43 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:43 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:27:43 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:27:43 - Prompt manager initialized
+[INFO] 2026-07-08 15:27:43 - All agents initialized
+[INFO] 2026-07-08 15:27:43 - Registered agent: discovery
+[INFO] 2026-07-08 15:27:43 - Registered agent: collector
+[INFO] 2026-07-08 15:27:43 - Registered agent: product
+[INFO] 2026-07-08 15:27:43 - Registered agent: pricing
+[INFO] 2026-07-08 15:27:43 - Registered agent: market
+[INFO] 2026-07-08 15:27:43 - Registered agent: strategy
+[INFO] 2026-07-08 15:27:43 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:27:43 - Analysis service initialized
+[INFO] 2026-07-08 15:27:43 - Starting Streamlit UI
+[INFO] 2026-07-08 15:27:43 - Cache miss for keyword: 电脑, executing pipeline
+[INFO] 2026-07-08 15:27:43 - Starting pipeline execution for keyword: 电脑
+[INFO] 2026-07-08 15:27:43 - Stage 1: Competitor Discovery
+[INFO] 2026-07-08 15:27:43 - Agent 'DiscoveryAgent' execution started
+[INFO] 2026-07-08 15:28:03 - Agent: DiscoveryAgent | Duration: 20.25s | Status: success
+[INFO] 2026-07-08 15:28:03 - Discovery completed: 5 competitors found
+[INFO] 2026-07-08 15:28:03 - Stage 2: Data Collection
+[INFO] 2026-07-08 15:28:03 - Agent 'CollectorAgent' execution started
+[INFO] 2026-07-08 15:28:03 - Collected data for 5 competitors
+[INFO] 2026-07-08 15:28:03 - Agent: CollectorAgent | Duration: 0.03s | Status: success
+[INFO] 2026-07-08 15:28:03 - Collection completed: 5 records
+[INFO] 2026-07-08 15:28:03 - Stage 3: Parallel Analysis
+[INFO] 2026-07-08 15:28:03 - Agent 'ProductAnalysisAgent' execution started
+[INFO] 2026-07-08 15:28:03 - Agent 'PricingAnalysisAgent' execution started
+[INFO] 2026-07-08 15:28:03 - Agent 'MarketAnalysisAgent' execution started
+[INFO] 2026-07-08 15:28:03 - Market analysis completed: 5 competitors analyzed
+[INFO] 2026-07-08 15:28:03 - Agent: MarketAnalysisAgent | Duration: 0.01s | Status: success
+[INFO] 2026-07-08 15:28:03 - Pricing analysis completed: avg=9559.00
+[INFO] 2026-07-08 15:28:03 - Product analysis completed for 5 products
+[INFO] 2026-07-08 15:28:03 - Agent: PricingAnalysisAgent | Duration: 0.03s | Status: success
+[INFO] 2026-07-08 15:28:03 - Agent: ProductAnalysisAgent | Duration: 0.03s | Status: success
+[INFO] 2026-07-08 15:28:03 - Parallel analysis completed
+[INFO] 2026-07-08 15:28:03 - Stage 4: Strategy Generation
+[INFO] 2026-07-08 15:28:03 - Agent 'StrategyAgent' execution started
+[INFO] 2026-07-08 15:28:43 - Strategy generated: 1828 characters
+[INFO] 2026-07-08 15:28:43 - Agent: StrategyAgent | Duration: 39.18s | Status: success
+[INFO] 2026-07-08 15:28:43 - Strategy generation completed
+[INFO] 2026-07-08 15:28:43 - Pipeline completed successfully in 59.49s
+[INFO] 2026-07-08 15:28:43 - Cached analysis result for key: analysis:电脑
+[INFO] 2026-07-08 15:28:43 - Analysis completed in 59.49s
+[INFO] 2026-07-08 15:30:35 - ======================================================================
+[INFO] 2026-07-08 15:30:35 - Starting Enterprise Competitor Analysis System
+[INFO] 2026-07-08 15:30:35 - ======================================================================
+[INFO] 2026-07-08 15:30:39 - LLM client initialized: provider=zhipu, model=GLM-4.7-Flash
+[INFO] 2026-07-08 15:30:39 - Cache service initialized: ttl=3600s
+[INFO] 2026-07-08 15:30:39 - Prompt manager initialized
+[INFO] 2026-07-08 15:30:39 - All agents initialized
+[INFO] 2026-07-08 15:30:39 - Registered agent: discovery
+[INFO] 2026-07-08 15:30:39 - Registered agent: collector
+[INFO] 2026-07-08 15:30:39 - Registered agent: product
+[INFO] 2026-07-08 15:30:39 - Registered agent: pricing
+[INFO] 2026-07-08 15:30:39 - Registered agent: market
+[INFO] 2026-07-08 15:30:39 - Registered agent: strategy
+[INFO] 2026-07-08 15:30:39 - Pipeline orchestrator initialized with 6 agents
+[INFO] 2026-07-08 15:30:39 - Analysis service initialized
+[INFO] 2026-07-08 15:30:39 - Starting Streamlit UI
